@@ -1,4 +1,4 @@
-👋 I'm Marvin Diaz \n
-👷 Product \n
-🔨 Building smart Flutter focussed IDE @Tonic-IDE \n
+👋 I'm Marvin Diaz 
+👷 Product 
+🔨 Building smart Flutter focussed IDE @Tonic-IDE 
 ✉️ hi@marvindiaz.co 
